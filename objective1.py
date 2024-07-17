@@ -1,3 +1,10 @@
+#tO INSTALL the libraries paste this in the command prompt all the documents till objective 6 will run 
+pip install os
+pip install requests
+pip install google_search
+pjp install openai
+pip install re
+
 #Importing libraries
 import os
 import requests
